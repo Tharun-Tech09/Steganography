@@ -32,7 +32,7 @@ IntelliJ IDEA or any Java IDE
 
 1.Clone this repository:
 
-  git clone https://github.com/yourusername/Steganography.git
+  git clone https://github.com/Tharun-Tech09/Steganography.git
 
 2.Open the project in your Java IDE.
 
